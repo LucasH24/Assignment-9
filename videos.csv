@@ -1,0 +1,4 @@
+movieId,title,format,length,regions
+1,Lethal Weapons 3,DVD,100,0|2
+2,Lethal Weapons 4,DVD,120,0|211,Test Video 1,MP4,250,0|1|2
+3,Test Video,MP4,250,0|1|2
