@@ -51,7 +51,8 @@ namespace Assignment9;
 
         foreach (string t in Title)
         {
-            if (t.Contains(searchValue))
+            String lower = t.ToLower();
+            if (lower.Contains(searchValue.ToLower()))
             {
                 Console.WriteLine(t);
                 i++;
